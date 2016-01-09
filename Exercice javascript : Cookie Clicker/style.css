@@ -1,0 +1,43 @@
+body{
+	background-image: url("http://www.elithecomputerguy.com/wp-content/pictures/nullset/GoodbyeBacktrackHelloKaliL.0AWalkthrough_13F4A/DesktopKali.jpg");
+	background-repeat: no-repeat;
+}
+h3{
+	margin-top:auto;
+	color:white;
+	border: 3px solid grey;
+	background-color: grey;
+}
+#affichage{
+	color:red;
+}
+.container{
+	margin-top:200px;
+	margin-left:500px;
+	position:relative;
+	background-color: black;
+	opacity: 0.7;
+	width: 620px;
+	height: 360px;
+	padding: 5px;
+	border: 3px solid red;
+}
+.btn {
+	margin:15px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  text-shadow: 0px 0px 1px #0dff00;
+  font-family: Courier New;
+  color: #08f518;
+  font-size: 15px;
+  background: #000000;
+  padding: 8px 15px 8px 15px;
+  border: solid #ff0000 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #8a0a0a;
+  text-decoration: none;
+}
